@@ -1,0 +1,21 @@
+.example-card{
+    height: 100%;
+    width: 780px;
+    margin-left: 160px;
+    margin-top: 30px;
+    /* background-color: blueviolet; */
+}
+#a1{
+    height: 30px;
+   border-radius: 10px;
+   border-color: blue;
+  }
+  #g1{
+    color: #5c6bc0;
+}
+table {
+    height: 80px;
+    width: 80px;
+    margin-top: 80px;
+    background-color: cadetblue;
+  }
